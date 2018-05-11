@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Whack a mole</string>
+    <string name="instructions">The objective of the game is to click on the mole to increase to gain 1 score and try to reach 20 points to win. If you miss a mole you lose 1 point and you have 10 misses. </string>
+    <string name="startBtn">Begin</string>
+    <string name="name">Name</string>
+    <string name="nameTitle">Enter your name</string>
+    <string name="score">Score:</string>
+    <string name="reset">Reset</string>
+    <string name="pause">Pause</string>
+    <string name="miss">Miss:</string>
+</resources>
